@@ -16,5 +16,3 @@ public class Student {
 		return "Student [Roll Number= " + rollnum + ", Name= " + name + ", Address= " + address + "]";
 	}
 }
-
-	
